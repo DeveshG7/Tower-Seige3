@@ -71,7 +71,7 @@ Engine.update(engine);
 
 textSize(24)
 fill("lightYellow")
-text("Drag The Hexagonal Shape And Release It To Launch It Towards The Blocks", 235, 55)
+text("Drag The Hexagonal Shape And Release It To Launch It Towards The Blocks", 180, 55)
 
 textSize(25)
 fill(250)
@@ -83,7 +83,7 @@ poly.display();
 
 textSize(30)
 fill("yellow")
-text("SCORE : " +score , 1030, 95)
+text("SCORE : " +score , 1000, 78)
 strokeWeight(7)
 
 fill("red")
